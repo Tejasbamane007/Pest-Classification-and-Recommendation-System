@@ -47,7 +47,7 @@ To avoid dependency conflicts and to leverage GPU support, i recommend running t
 ### How to Run
 
 1. Open the Colab notebook:  
-   [Google Colab Notebook](https://colab.research.google.com/drive/YOUR-NOTEBOOK-ID)
+   [Google Colab Notebook](https://colab.research.google.com)
 
 2. Mount your Google Drive:
    ```python
