@@ -31,7 +31,7 @@ The project is designed to be executed on **Google Colab** for ease of access, G
 The dataset consists of pest species images divided by folders. The full dataset contains over 100 classes and is publicly available on IEEE. A subset of 10 pest classes has been used in this implementation for demonstration and model testing.
 
 - Sample Dataset (10 Pest Classes):  
-  [Google Drive - 10-Class Dataset](https://drive.google.com/drive/folders/YOUR-GDRIVE-LINK)
+  [Google Drive - 10-Class Dataset](https://drive.google.com/drive/folders/1WpiMGGlTdR5QlUsy0HmBph3zqQVRuIuw?usp=sharing)
 
 - Full Dataset (All Classes):  
   [IEEE DataPort - Pest Image Dataset](https://ieeexplore.ieee.org/document/YOUR-IEEE-DATASET-ID)
