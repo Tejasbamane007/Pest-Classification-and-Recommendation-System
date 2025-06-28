@@ -42,7 +42,7 @@ Note: You must mount your Google Drive in Colab to access the dataset.
 
 ## Recommended Environment: Google Colab
 
-To avoid dependency conflicts and to leverage GPU support, we recommend running this project on Google Colab.
+To avoid dependency conflicts and to leverage GPU support, i recommend running this project on Google Colab.
 
 ### How to Run
 
