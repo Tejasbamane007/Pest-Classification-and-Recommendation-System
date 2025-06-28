@@ -34,7 +34,7 @@ The dataset consists of pest species images divided by folders. The full dataset
   [Google Drive - 10-Class Dataset](https://drive.google.com/drive/folders/1WpiMGGlTdR5QlUsy0HmBph3zqQVRuIuw?usp=sharing)
 
 - Full Dataset (All Classes):  
-  [IEEE DataPort - Pest Image Dataset](https://ieeexplore.ieee.org/document/YOUR-IEEE-DATASET-ID)
+  [IEEE DataPort - Pest Image Dataset]([https://ieeexplore.ieee.org/document/YOUR-IEEE-DATASET-ID](https://ieee-dataport.org/documents/dataset-agriculture-pest-images#files))
 
 Note: You must mount your Google Drive in Colab to access the dataset.
 
